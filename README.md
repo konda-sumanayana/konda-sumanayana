@@ -1,6 +1,6 @@
 # Welcome to Sumanayana Konda's GitHub 👋
 
-Hello! I'm Sumanayana, a passionate Information Systems graduate student at Northeastern University. This is my new GitHub profile. For my previous work, please check out my [old GitHub account](https://github.com/Sumanayana-Konda/Sumanayana-Konda).
+Hello! I'm Sumanayana, a passionate Information Systems graduate student at Northeastern University. This is my new GitHub profile. For my previous work, please check out my [old GitHub account](https://github.com/Sumanayana-Konda?tab=repositories).
 
 ## 🎓 About Me
 
